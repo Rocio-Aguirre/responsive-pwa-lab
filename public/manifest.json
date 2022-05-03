@@ -1,6 +1,14 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "Responsive App",
+  "short_name": "Responsive",
+  "description": "Responsive application demo",
+  "background_color": "#FFF",
+  "theme_color": "#F0F8FF",
+  "start_url": "./",
+  "orientation": "portrait",
+  "display": "standalone",
+  "scope":"./",
+  "lang":"es-ES",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,9 +25,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
